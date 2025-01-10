@@ -1,0 +1,12 @@
+name: WearableBanner
+version: '1.0-SNAPSHOT'
+main: com.github.eisblume2000.wearableBanner.WearableBanner
+api-version: '1.20'
+authors: [ Eisblume-2000 ]
+description: Makes banner equipable in the head slot. Like the pilliagers
+website: https://github.com/Eisblume-2000
+commands:
+  equipbanner:
+    description: Places a banner in your helmet inventory slot
+    aliases:
+      - eq
