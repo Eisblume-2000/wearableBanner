@@ -1,10 +1,10 @@
-#WearableBanner
+# **WearableBanner**
 
 -Plugin for PaperMC
 
 -Version: 1.20.2
 
-##Description
+## Description
 
 Addes the ability to equip banner in the head slot.
 
